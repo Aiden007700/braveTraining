@@ -9,7 +9,7 @@ import { setSearchField } from "../actions";
 
 const  mapStateToProps = state => {
     return {
-        searchField: state.searchRobots.searchField
+        searchField: state.searchField
     }
 };
 
@@ -37,11 +37,11 @@ class App extends Component {
     }
 
     onSerchChange = (event) => {
-        this.setState({serchfield: event.target.value})
+        this.setState({serchField: event.target.value})
     };
     render() {
         const filteredRobots = this.state.robots.filter(robot => {
-            return robot.name.toLowerCase().includes(this.state.serchfield.toLowerCase());
+            return robot.name.toLowerCase().includes(this.state.serchField.toLowerCase());
         });
         if (robots.length===0) {
             return <h1>Loading</h1>

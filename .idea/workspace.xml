@@ -2,95 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b21f1a32-e890-4f14-b6ea-d6d46f28ea47" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/observables-start/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/how-to-use.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/app/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/app/home/home.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/app/home/home.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/app/home/home.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/app/user/user.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/app/user/user.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/app/user/user.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/observables-start/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/how-to-use.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/home/home.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/home/home.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/home/home.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/edit-server/edit-server.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/edit-server/edit-server.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/edit-server/edit-server.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/servers.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/users/users.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/users/users.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/users/users.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -130,7 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/robofriends" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -158,26 +70,28 @@
       <updated>1529489970765</updated>
       <workItem from="1529489971919" duration="38000" />
       <workItem from="1529490023416" duration="47000" />
+      <workItem from="1529490744890" duration="14000" />
+      <workItem from="1529490801753" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85000" />
+    <option name="totallyTimeSpent" value="135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="960" height="1053" extended-state="4" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5058698" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
